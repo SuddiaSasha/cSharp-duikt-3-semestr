@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\\u0443\u0440\u043E\u043A\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u04403\\project\\ProductCatalogAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E46CF3CF-CAB1-44A2-9582-4584E6940C22}|ProductCatalogAPI\\ProductCatalogAPI.csproj|a:\\\u0443\u0440\u043E\u043A\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u04403\\project\\productcatalogapi\\productcatalogapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46CF3CF-CAB1-44A2-9582-4584E6940C22}|ProductCatalogAPI\\ProductCatalogAPI.csproj|solutionrelative:productcatalogapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46CF3CF-CAB1-44A2-9582-4584E6940C22}|ProductCatalogAPI\\ProductCatalogAPI.csproj|a:\\\u0443\u0440\u043E\u043A\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u04403\\project\\productcatalogapi\\productcatalogapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46CF3CF-CAB1-44A2-9582-4584E6940C22}|ProductCatalogAPI\\ProductCatalogAPI.csproj|solutionrelative:productcatalogapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46CF3CF-CAB1-44A2-9582-4584E6940C22}|ProductCatalogAPI\\ProductCatalogAPI.csproj|a:\\\u0443\u0440\u043E\u043A\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u04403\\project\\productcatalogapi\\productcatalogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E46CF3CF-CAB1-44A2-9582-4584E6940C22}|ProductCatalogAPI\\ProductCatalogAPI.csproj|solutionrelative:productcatalogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46CF3CF-CAB1-44A2-9582-4584E6940C22}|ProductCatalogAPI\\ProductCatalogAPI.csproj|a:\\\u0443\u0440\u043E\u043A\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u04403\\project\\productcatalogapi\\productcatalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46CF3CF-CAB1-44A2-9582-4584E6940C22}|ProductCatalogAPI\\ProductCatalogAPI.csproj|solutionrelative:productcatalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46CF3CF-CAB1-44A2-9582-4584E6940C22}|ProductCatalogAPI\\ProductCatalogAPI.csproj|a:\\\u0443\u0440\u043E\u043A\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u04403\\project\\productcatalogapi\\productcatalogapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46CF3CF-CAB1-44A2-9582-4584E6940C22}|ProductCatalogAPI\\ProductCatalogAPI.csproj|solutionrelative:productcatalogapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46CF3CF-CAB1-44A2-9582-4584E6940C22}|ProductCatalogAPI\\ProductCatalogAPI.csproj|a:\\\u0443\u0440\u043E\u043A\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u04403\\project\\productcatalogapi\\productcatalogapi\\productcatalogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E46CF3CF-CAB1-44A2-9582-4584E6940C22}|ProductCatalogAPI\\ProductCatalogAPI.csproj|solutionrelative:productcatalogapi\\productcatalogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "A:\\\u0443\u0440\u043E\u043A\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u04403\\project\\ProductCatalogAPI\\ProductCatalogAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductCatalogAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "A:\\\u0443\u0440\u043E\u043A\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u04403\\project\\ProductCatalogAPI\\ProductCatalogAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductCatalogAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:02:39.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\\u0443\u0440\u043E\u043A\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u04403\\project\\ProductCatalogAPI\\ProductCatalogAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCatalogAPI\\Program.cs",
+              "ToolTip": "A:\\\u0443\u0440\u043E\u043A\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u04403\\project\\ProductCatalogAPI\\ProductCatalogAPI\\Program.cs",
+              "RelativeToolTip": "ProductCatalogAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:53:02.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "A:\\\u0443\u0440\u043E\u043A\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u04403\\project\\ProductCatalogAPI\\ProductCatalogAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductCatalogAPI\\appsettings.json",
+              "ToolTip": "A:\\\u0443\u0440\u043E\u043A\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u04403\\project\\ProductCatalogAPI\\ProductCatalogAPI\\appsettings.json",
+              "RelativeToolTip": "ProductCatalogAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T15:50:42.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "A:\\\u0443\u0440\u043E\u043A\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u04403\\project\\ProductCatalogAPI\\ProductCatalogAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProductCatalogAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "A:\\\u0443\u0440\u043E\u043A\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u04403\\project\\ProductCatalogAPI\\ProductCatalogAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProductCatalogAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:48:49.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "A:\\\u0443\u0440\u043E\u043A\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u04403\\project\\ProductCatalogAPI\\ProductCatalogAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductCatalogAPI\\Models\\Product.cs",
+              "ToolTip": "A:\\\u0443\u0440\u043E\u043A\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u04403\\project\\ProductCatalogAPI\\ProductCatalogAPI\\Models\\Product.cs",
+              "RelativeToolTip": "ProductCatalogAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:43:31.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductCatalogAPI.csproj",
+              "DocumentMoniker": "A:\\\u0443\u0440\u043E\u043A\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u04403\\project\\ProductCatalogAPI\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
+              "RelativeDocumentMoniker": "ProductCatalogAPI\\ProductCatalogAPI.csproj",
+              "ToolTip": "A:\\\u0443\u0440\u043E\u043A\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u04403\\project\\ProductCatalogAPI\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
+              "RelativeToolTip": "ProductCatalogAPI\\ProductCatalogAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T15:39:49.676Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
